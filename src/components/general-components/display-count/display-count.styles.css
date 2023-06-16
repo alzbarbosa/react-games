@@ -1,0 +1,10 @@
+.count-tries {
+  font-size: 1.25rem;
+  text-align: center;
+  color: #000;
+  border: 2px ridge black;
+  border-radius: 5px;
+  width: 250px;
+  background-color: #fff;
+  margin-bottom: 0.5em;
+}
